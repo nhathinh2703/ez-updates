@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/nhathinh2703/ez-updates/main/apps/ezMix/ezMix_1.0.1.zip",
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/nhathinh2703/ez-updates/main/apps/ezMix/ezMix_1.0.0.zip",
   "mandatory": false,
   "changelog": [
-    "Fix login bug",
-    "Improve performance"
+    "- Phát hành sản phẩm lần đầu.",
+    "- Cải tiến hiệu suất."
   ]
 }
