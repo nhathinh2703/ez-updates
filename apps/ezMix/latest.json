@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "url": "https://raw.githubusercontent.com/nhathinh2703/ez-updates/main/apps/ezMix/ezMix_1.0.2.zip",
+  "version": "1.0.3",
+  "url": "https://raw.githubusercontent.com/nhathinh2703/ez-updates/main/apps/ezMix/ezMix_1.0.3.zip",
   "mandatory": true,
   "changelog": [
-    "- Sửa lỗi hiển thị đáp án Word câu tự luận.",
+    "- Cập nhật giao diện.",
     "- Cải tiến hiệu suất."
   ]
 }
