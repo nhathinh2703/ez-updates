@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
-  "url": "https://raw.githubusercontent.com/nhathinh2703/ez-updates/main/apps/ezMix/ezMix_1.0.5.zip",
+  "version": "1.0.6",
+  "url": "https://raw.githubusercontent.com/nhathinh2703/ez-updates/main/apps/ezMix/ezMix_1.0.6.zip",
   "mandatory": false,
   "changelog": [
-    "- Cập nhật ProgressOverlay.",
+    "- Cập nhật giao diện.",
     "- Cải tiến hiệu suất."
   ]
 }
